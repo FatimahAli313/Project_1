@@ -4498,7 +4498,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uJMS4yf4XbDkNghN4cHx" name="Page-14">
-    <mxGraphModel dx="2048" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4990,10 +4990,10 @@
         <mxCell id="bTHqRl5fqev_rM9TCVfp-116" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Roles&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="930" y="547.06" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bTHqRl5fqev_rM9TCVfp-117" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;RoleName&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="bTHqRl5fqev_rM9TCVfp-117" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;RoleName&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#F0F000;" vertex="1" parent="1">
           <mxGeometry x="1050" y="577.06" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bTHqRl5fqev_rM9TCVfp-118" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;u&gt;RoleID&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="bTHqRl5fqev_rM9TCVfp-118" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;u&gt;RoleID&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#F0F000;" vertex="1" parent="1">
           <mxGeometry x="1050" y="527.06" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTHqRl5fqev_rM9TCVfp-119" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="bTHqRl5fqev_rM9TCVfp-117" source="bTHqRl5fqev_rM9TCVfp-116">
@@ -5079,10 +5079,10 @@
             <mxPoint x="250" y="243.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTHqRl5fqev_rM9TCVfp-136" value="&lt;span style=&quot;font-size: 12pt; line-height: 140%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Clinic_ Medicine&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="bTHqRl5fqev_rM9TCVfp-136" value="&lt;span style=&quot;font-size: 12pt; line-height: 140%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Clinic_ Medicine&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#A0AF9F;strokeColor=#75A15C;" vertex="1" parent="1">
           <mxGeometry x="395.93" y="740" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bTHqRl5fqev_rM9TCVfp-137" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px;&quot;&gt;StockLevel&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FFCCE6;" vertex="1" parent="1">
+        <mxCell id="bTHqRl5fqev_rM9TCVfp-137" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px;&quot;&gt;StockLevel&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="395.93" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTHqRl5fqev_rM9TCVfp-138" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
